@@ -10,6 +10,7 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/samefile_0.1</module>
     <module>jobs/process/sampledb_0.1</module>
   </modules>
   <properties>
