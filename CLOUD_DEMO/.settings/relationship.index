@@ -4,5 +4,9 @@
     "version" : "0.1",
     "type" : "job"
   },
-  "relatedItems" : [ ]
+  "relatedItems" : [ {
+    "id" : "_2gXaYAWXEeychr-R7DVcAQ - employee",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
