@@ -4,6 +4,7 @@
     <migrationTask xmi:id="_FiiG8AV1EeynX7nfQAUiqw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_Fcko4gV1EeynX7nfQAUiqw" login="navyalatha.asannagari@trial35330.us.talend.com" firstName="navya" lastName="A" type="DQ"/>
-  <TalendProperties:User xmi:id="_PxazoBRZEeymS9K_5oFsyQ" login="pthanuja178@trial35523.us.talend.com" firstName="Thanuja" lastName="Pagidimarri" type="DQ"/>
-  <TalendProperties:User xmi:id="_PxazoRRZEeymS9K_5oFsyQ" login="pthanuja178@trial35523.us.talend.com" firstName="Thanuja" lastName="Pagidimarri" type="DQ"/>
+  <TalendProperties:User xmi:id="_PxazoBRZEeymS9K_5oFsyQ" login="pthanuja178@trial35523.us.talend.com" firstName="Thanuja" lastName="Prod" type="DQ"/>
+  <TalendProperties:User xmi:id="_PxazoRRZEeymS9K_5oFsyQ" login="pthanuja178@trial35523.us.talend.com" firstName="Thanuja" lastName="Prod" type="DQ"/>
+  <TalendProperties:User xmi:id="_cathcBVAEeydVdP5XgahJg" login="navyalatha.asannagari@trial35523.us.talend.com" firstName="navya" lastName="Dev" type="DQ"/>
 </xmi:XMI>
